@@ -1,0 +1,15 @@
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\bin\Debug\net5.0\Services.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\bin\Debug\net5.0\Models.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\bin\Debug\net5.0\Models.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\refint\Services.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\Services.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\Services\obj\Debug\net5.0\ref\Services.dll

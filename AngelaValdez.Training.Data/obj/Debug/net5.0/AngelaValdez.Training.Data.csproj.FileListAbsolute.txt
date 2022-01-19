@@ -1,0 +1,15 @@
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\bin\Debug\net5.0\AngelaValdez.Training.Data.deps.json
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\bin\Debug\net5.0\AngelaValdez.Training.Data.runtimeconfig.json
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\bin\Debug\net5.0\AngelaValdez.Training.Data.runtimeconfig.dev.json
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\bin\Debug\net5.0\AngelaValdez.Training.Data.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\bin\Debug\net5.0\AngelaValdez.Training.Data.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.csproj.AssemblyReference.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.AssemblyInfoInputs.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.AssemblyInfo.cs
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.csproj.CoreCompileInputs.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\refint\AngelaValdez.Training.Data.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\AngelaValdez.Training.Data.genruntimeconfig.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Data\obj\Debug\net5.0\ref\AngelaValdez.Training.Data.dll

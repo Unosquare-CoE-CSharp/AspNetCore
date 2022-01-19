@@ -1,0 +1,15 @@
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\bin\Debug\net5.0\AngelaValdez.Training.Services.deps.json
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\bin\Debug\net5.0\AngelaValdez.Training.Services.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\bin\Debug\net5.0\AngelaValdez.Training.Services.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.csproj.AssemblyReference.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.AssemblyInfoInputs.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.AssemblyInfo.cs
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.csproj.CoreCompileInputs.cache
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\refint\AngelaValdez.Training.Services.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\ref\AngelaValdez.Training.Services.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\bin\Debug\net5.0\AngelaValdez.Training.Data.dll
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\bin\Debug\net5.0\AngelaValdez.Training.Data.pdb
+C:\Users\angela.valdez\OneDrive - Unosquare\Documents\Training\AspNetCore\AngelaValdez.Training.Services\obj\Debug\net5.0\AngelaValdez.Training.Services.csproj.CopyComplete
