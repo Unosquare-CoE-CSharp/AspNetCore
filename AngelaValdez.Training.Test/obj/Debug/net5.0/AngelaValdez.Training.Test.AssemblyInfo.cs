@@ -11,17 +11,17 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AngelaValdez.Training.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaV" +
-    "aldez.Training.API", "AngelaValdez.Training.API.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AngelaValdez.Training.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\An" +
+    "gelaValdez.Training.API", "AngelaValdez.Training.API.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AngelaValdez.Training.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" +
-    "", "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaV" +
-    "aldez.Training.Data", "AngelaValdez.Training.Data.csproj", "0")]
+    "", "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\An" +
+    "gelaValdez.Training.Data", "AngelaValdez.Training.Data.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AngelaValdez.Training.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" +
-    "", "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaV" +
-    "aldez.Training.DTOs", "AngelaValdez.Training.DTOs.csproj", "0")]
+    "", "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\An" +
+    "gelaValdez.Training.DTOs", "AngelaValdez.Training.DTOs.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AngelaValdez.Training.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=" +
-    "null", "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaV" +
-    "aldez.Training.Services", "AngelaValdez.Training.Services.csproj", "0")]
+    "null", "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\An" +
+    "gelaValdez.Training.Services", "AngelaValdez.Training.Services.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngelaValdez.Training.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

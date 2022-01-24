@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj": {}
+    "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj": {
+    "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj",
         "projectName": "AngelaValdez.Training.Data",
-        "projectPath": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj",
-        "packagesPath": "C:\\Users\\angela.valdez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.Data\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj",
+        "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\angela.valdez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,30 +65,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\x64\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj": {
+    "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj",
         "projectName": "AngelaValdez.Training.DTOs",
-        "projectPath": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj",
-        "packagesPath": "C:\\Users\\angela.valdez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.DTOs\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.DTOs\\AngelaValdez.Training.DTOs.csproj",
+        "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.DTOs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\angela.valdez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,15 +106,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj": {
-                "projectPath": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj"
+              "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\AngelaValdez.Training.Data\\AngelaValdez.Training.Data.csproj"
               }
             }
           }
@@ -149,12 +153,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\x64\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

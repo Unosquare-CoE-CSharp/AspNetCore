@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AspNetCore_Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\AspNetC" +
-    "ore_Project", "AspNetCore_Project.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\Models", "Models.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\Service" +
-    "s", "Services.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AspNetCore_Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\As" +
+    "pNetCore_Project", "AspNetCore_Project.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\Mo" +
+    "dels", "Models.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\Se" +
+    "rvices", "Services.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32b49310-ec76-4bd7-b286-1502b309cb89": {
+      "ProjectGuid": "32b49310-ec76-4bd7-b286-1502b309cb89",
+      "DisplayName": "Test",
+      "ColorIndex": 0
+    },
+    "f01cff4e-36f9-40b4-b33e-ba91cee2b50a": {
+      "ProjectGuid": "f01cff4e-36f9-40b4-b33e-ba91cee2b50a",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "5e7d1366-cda7-4038-8957-67e47755e0e1": {
+      "ProjectGuid": "5e7d1366-cda7-4038-8957-67e47755e0e1",
+      "DisplayName": "Models",
+      "ColorIndex": 2
+    },
+    "254e6dc2-bf82-4f26-ab78-81bc35fe5a20": {
+      "ProjectGuid": "254e6dc2-bf82-4f26-ab78-81bc35fe5a20",
+      "DisplayName": "AspNetCore_Project",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

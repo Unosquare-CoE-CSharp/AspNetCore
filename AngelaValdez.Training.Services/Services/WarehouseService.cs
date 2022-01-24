@@ -13,6 +13,7 @@ namespace AngelaVadez.Training.Services.Services
 {
     public class WarehouseService : RepositoryBase<Warehouse>,IWarehouseService
     {
+        //TODO: We can inject this directly not needed to have a property
         ApplicationDbContext _applicationDbContext { get; set; }
         public WarehouseService(ApplicationDbContext applicationDbContext)
             :base(applicationDbContext)

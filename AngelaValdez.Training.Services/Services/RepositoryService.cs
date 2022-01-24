@@ -12,6 +12,7 @@ namespace AngelaValdez.Training.Services.Services
 {
     public class RepositoryService : IRepositoryService
     {
+
         private ApplicationDbContext _applicationDbContext;
         private IWarehouseService _warehouse;
         private IItemService _item;
@@ -21,6 +22,7 @@ namespace AngelaValdez.Training.Services.Services
             {
                 if (_warehouse == null)
                 {
+                    //TODO: Not needed, DI should handle the instances for the dependency injection
                     _warehouse = new WarehouseService(_applicationDbContext);
                 }
                 return _warehouse;

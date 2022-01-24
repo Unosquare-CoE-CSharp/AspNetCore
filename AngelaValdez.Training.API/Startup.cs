@@ -28,6 +28,7 @@ namespace AngelaValdez.Training.API
             services.AddScoped<IRepositoryService, RepositoryService>();
             services.AddControllers().AddJsonOptions(x =>
    x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
+            //TODO: Add Services into the DI, explanation.
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "AngelaValdez.Training.API", Version = "v1" });

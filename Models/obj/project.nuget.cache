@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pXFCo9O3DWmu7Oi1V6hIuWJFIwfxbH7kmP17iEuHsyhoD8UPMjtEJzMKokESPb/H/MFlaB9I/ql5W3aGecenow==",
+  "dgSpecHash": "Go7DacP7s3Jxy7zOdzn1uqvv7KMTK43v4oDG4+JXIdySnBx48rD9X4Kr92g+qld1q+KwrRJhKEU3p9fbAHvhMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\angela.valdez\\OneDrive - Unosquare\\Documents\\Training\\AspNetCore\\Models\\Models.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\Code Projects\\Angela Valdez\\AspNetCore\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo.torres\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eduardo.torres\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eduardo.torres\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

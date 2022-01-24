@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace AngelaValdez.Training.Data.Configurations
 {
+    //TODO: We can remove the Fluent word
     public class FluentWarehouseConfig : IEntityTypeConfiguration<Warehouse>
     {
         public void Configure(EntityTypeBuilder<Warehouse> modelBuilder)

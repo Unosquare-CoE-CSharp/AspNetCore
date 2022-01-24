@@ -30,11 +30,13 @@ namespace AngelaValdez.Training.Services.Abtractions
 
         public IQueryable<T> GetAll()
         {
+            //TODO: Perfect with the AsNoTracking.!!
             return _applicationDbContext.Set<T>().AsNoTracking();
         }
 
         public IQueryable<T> GetAll(Expression<Func<T, bool>> predicate)
         {
+            //TODO: Comment: Great use of predicates
             return this._applicationDbContext.Set<T>().Where(predicate).AsNoTracking();
         }
 

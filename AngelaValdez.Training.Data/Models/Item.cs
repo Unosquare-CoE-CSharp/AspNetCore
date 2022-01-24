@@ -9,6 +9,10 @@ namespace AngelaValdez.Training.Data.Models
 {
     public class Item
     {
+        //TODO: Separate navigation properties
+        //TODO: What types do we have? 
+        //TODO: What status do we have ?
+        //TODO: Guid vs Ids ? 
         public Guid Id { get; set; }
         public string Type { get; set; }
         public int Status { get; set; }

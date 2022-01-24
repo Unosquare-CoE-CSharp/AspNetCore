@@ -15,6 +15,7 @@ namespace AspNetCore_Project.Controllers
     public class ItemController : ControllerBase
     {
         IItemService _itemService;
+        //TODO: REpository pattern is redundant
         IRepositoryService _repositoryService;
         public ItemController(IRepositoryService repositoryService)
         {
