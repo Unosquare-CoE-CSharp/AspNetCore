@@ -18,11 +18,17 @@ namespace AngelaValdez.Training.Data.Models
         public int Status { get; set; }
 
         public Guid WarehouseId { get; set; }
-        public Warehouse Warehouse { get; set; }
 
         public Guid? ContainerId { get; set; }
+
+
+
+        //Navigation Properties
         public Item Container { get; set; }
         public List<Item> Items { get; set; }
-        
+
+        public Warehouse Warehouse { get; set; }
+
+
     }
 }

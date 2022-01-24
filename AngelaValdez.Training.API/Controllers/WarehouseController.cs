@@ -20,13 +20,14 @@ namespace AspNetCore_Project.Controllers
         {
             _repositoryService = repositoryService;
             _warehouseService = repositoryService.Warehouse;
+            
         }
 
         [HttpGet]
         public IActionResult GetWarehouse()
         {
-            var x = _warehouseService.GetAll();
-            return Ok(x);
+            var warehouses = _warehouseService.GetAll();
+            return Ok(warehouses);            
         }
 
         [HttpGet("WarehousesWithItems")]
